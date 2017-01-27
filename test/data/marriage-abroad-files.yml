@@ -1,7 +1,7 @@
 ---
 lib/smart_answer_flows/marriage-abroad.rb: 4fa1a44eacfd0293704a38455b3f1084
 test/data/marriage-abroad-questions-and-responses.yml: 1da0ed44bd64ec0febb647b8b6158785
-test/data/marriage-abroad-responses-and-expected-results.yml: 647208de10e14b4df626c4452a6b0bfc
+test/data/marriage-abroad-responses-and-expected-results.yml: 0a632a0ea448b76c47eeb26b952f029e
 lib/smart_answer_flows/marriage-abroad/marriage_abroad.govspeak.erb: b4d0cfc1c7c4776d968c9b5b6df85027
 lib/smart_answer_flows/marriage-abroad/outcomes/_affirmation_os_translation_in_local_language_text.govspeak.erb: af09e09b909c563d4a587ef1b9285cca
 lib/smart_answer_flows/marriage-abroad/outcomes/_appointment_for_affidavit.govspeak.erb: 4db6fe2ec298d79aefaed0d4ff244e75
@@ -103,11 +103,11 @@ lib/smart_answer_flows/marriage-abroad/outcomes/countries/italy/uk/partner_local
 lib/smart_answer_flows/marriage-abroad/outcomes/countries/italy/uk/partner_other/_opposite_sex.html.erb: f030fb7ddfb7ad796bec0e0d054fefef
 lib/smart_answer_flows/marriage-abroad/outcomes/countries/italy/uk/partner_other/_same_sex.html.erb: 1afbc1c09ee1b680b3c8a5ff16fcce07
 lib/smart_answer_flows/marriage-abroad/outcomes/countries/jordan/_title.govspeak.erb: 244778b903869fce5ce20769b189ad23
-lib/smart_answer_flows/marriage-abroad/outcomes/countries/jordan/ceremony_country/partner_british/_opposite_sex.govspeak.erb: 7b5560618a98151b64d5961e098105bb
+lib/smart_answer_flows/marriage-abroad/outcomes/countries/jordan/ceremony_country/partner_british/_opposite_sex.govspeak.erb: e99fd8555e2b8e0da5958ede9d540965
 lib/smart_answer_flows/marriage-abroad/outcomes/countries/jordan/ceremony_country/partner_british/_same_sex.govspeak.erb: 84ad27e2cd66595dcbf54efbc1ef10f1
-lib/smart_answer_flows/marriage-abroad/outcomes/countries/jordan/ceremony_country/partner_local/_opposite_sex.govspeak.erb: d888dafa2fe59c9696cc8bb1989ed2c2
+lib/smart_answer_flows/marriage-abroad/outcomes/countries/jordan/ceremony_country/partner_local/_opposite_sex.govspeak.erb: ca287642d69871aca685ccd7a0ed2aea
 lib/smart_answer_flows/marriage-abroad/outcomes/countries/jordan/ceremony_country/partner_local/_same_sex.govspeak.erb: 84ad27e2cd66595dcbf54efbc1ef10f1
-lib/smart_answer_flows/marriage-abroad/outcomes/countries/jordan/ceremony_country/partner_other/_opposite_sex.govspeak.erb: d888dafa2fe59c9696cc8bb1989ed2c2
+lib/smart_answer_flows/marriage-abroad/outcomes/countries/jordan/ceremony_country/partner_other/_opposite_sex.govspeak.erb: ca287642d69871aca685ccd7a0ed2aea
 lib/smart_answer_flows/marriage-abroad/outcomes/countries/jordan/ceremony_country/partner_other/_same_sex.govspeak.erb: 84ad27e2cd66595dcbf54efbc1ef10f1
 lib/smart_answer_flows/marriage-abroad/outcomes/countries/jordan/third_country/partner_british/_opposite_sex.govspeak.erb: 3bf7c9f65819c9db132213973c0b0483
 lib/smart_answer_flows/marriage-abroad/outcomes/countries/jordan/third_country/partner_british/_same_sex.govspeak.erb: 84ad27e2cd66595dcbf54efbc1ef10f1
@@ -228,11 +228,11 @@ lib/smart_answer_flows/marriage-abroad/outcomes/outcome_opposite_sex_marriage_in
 lib/smart_answer_flows/marriage-abroad/outcomes/outcome_opposite_sex_marriage_in_colombia.govspeak.erb: d8808ff51129ad9aa97a809bffdbc84d
 lib/smart_answer_flows/marriage-abroad/outcomes/outcome_opposite_sex_marriage_in_commonwealth_countries.govspeak.erb: 3fb665263218731ff06b1a535169b8f7
 ? lib/smart_answer_flows/marriage-abroad/outcomes/outcome_opposite_sex_marriage_in_consular_cni_countries_when_residing_in_ceremony_country.govspeak.erb
-: 53ed33487ca283efdf20660e28228a53
+: 6241c8f9eb1e4db9c45ec43b139c4438
 ? lib/smart_answer_flows/marriage-abroad/outcomes/outcome_opposite_sex_marriage_in_consular_cni_countries_when_residing_in_third_country.govspeak.erb
 : a48a69c76056b9041cc86184b763a3c2
 ? lib/smart_answer_flows/marriage-abroad/outcomes/outcome_opposite_sex_marriage_in_consular_cni_countries_when_residing_in_uk.govspeak.erb
-: 035e393a5b92315a099d3b375b912cc3
+: c89135743f6d390f48c25e296a14f2df
 lib/smart_answer_flows/marriage-abroad/outcomes/outcome_opposite_sex_marriage_in_dominican_republic.govspeak.erb: 12921301af7691afefafeaefcbbe0233
 lib/smart_answer_flows/marriage-abroad/outcomes/outcome_opposite_sex_marriage_in_ecuador.govspeak.erb: 0d18f7723897e5d70eca85476f2d5525
 lib/smart_answer_flows/marriage-abroad/outcomes/outcome_opposite_sex_marriage_in_egypt.govspeak.erb: 6015b33a4b579496daae6c60b9d0e54e
